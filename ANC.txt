@@ -1,4 +1,0 @@
-Time(min)	Time(hydraulic res time)	ANC (eq/L)	
-0	0	0.001735
-5	0.360880549	0.000999
-10	0.721761097	0.000424
